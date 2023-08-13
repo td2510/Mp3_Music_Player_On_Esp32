@@ -9,3 +9,4 @@
 * CS   GPIO_NUM_13
 # Khi bắt đầu chạy màn hình sẽ đen vài giây để tải dữ liệu cho oled
 * Chạy thử: https://youtube.com/shorts/p5b11d6myJc?feature=share
+![IMG_2520](https://github.com/td2510/Mp3_Music_Player_On_Esp32/assets/111385453/ef743073-ae10-40ba-9718-bb2257e6bddf)
